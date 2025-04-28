@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>MediBot Demo</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <style>
+    :root{
+      --bot:#2563eb;      /* bubble colours */
+      --user:#10b981;
+      --bg:#f5f5f5;
+      font-family:system-ui,sans-serif;
+    }
+    body{margin:0;background:var(--bg);display:flex;height:100vh}
+    #chat{
+      margin:auto;
+      width:clamp(320px,90vw,480px);
+      height:80vh;
+      display:flex;flex-direction:column;
+      border-radius:12px;background:#fff;
+      box-shadow:0 4px 12px rgba(0,0,0,.1);
+      overflow:hidden;
+    }
+    #log{flex:1;padding:16px;overflow-y:auto}
+    .msg{
+      margin:8px 0;max-width:80%;
+      padding:8px 12px;border-radius:16px;line-height:1.35
+    }
+    .bot {background:var(--bot); color:#fff;border-bottom-left-radius:0}
+    .user{background:var(--user);color:#fff;margin-left:auto;border-bottom-right-radius:0}
+    #form{display:flex;border-top:1px solid #ddd}
+    #text{
+      flex:1;border:none;padding:12px;font-size:16px;outline:none
+    }
+    #send{
+      border:none;background:var(--bot);color:#fff;padding:0 20px;cursor:pointer
+    }
+    #send:disabled{opacity:.5;cursor:default}
+  </style>
+</head>
+<body>
+
+<div id="chat">
+  <div id="log">
+    <div class="msg bot">👋 Hello ! I’m MediBot. How can I assist you today?</div>
+  </div>
+
+  <form id="form" autocomplete="off">
+    <input id="text" placeholder="Type a message…" />
+    <button id="send">Send</button>
+  </form>
+</div>
+
+<script>
+const ENDPOINT = "http://127.0.0.1:8000/chat/";   // adjust if backend is elsewhere
+const log   = document.getElementById("log");
+const form  = document.getElementById("form");
+const input = document.getElementById("text");
+
+function addMsg(text, who){
+  const div=document.createElement("div");
+  div.className=`msg ${who}`;
+  div.textContent=text;
+  log.appendChild(div);
+  log.scrollTop=log.scrollHeight;
+}
+
+async function send(text){
+  addMsg(text,"user");
+  input.value=""; input.focus();
+  try{
+    const res = await fetch(ENDPOINT,{
+      method:"POST",
+      headers:{"Content-Type":"application/json"},
+      body:JSON.stringify({text})
+    });
+    if(!res.ok) throw new Error(res.statusText);
+    const data = await res.json();
+    addMsg(data.response ?? "[no response]","bot");
+  }catch(err){
+    addMsg("⚠️ Error: "+err.message,"bot");
+  }
+}
+
+form.addEventListener("submit",e=>{
+  e.preventDefault();
+  const txt=input.value.trim();
+  if(txt) send(txt);
+});
+</script>
+
+</body>
+</html>

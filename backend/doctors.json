@@ -1,0 +1,1402 @@
+[
+  {
+    "name": "Dr. Alain de la Deschamps",
+    "specialty": "cardiologue",
+    "location": "Rennes",
+    "languages": "fr,en",
+    "payment": "carte,espèces"
+  },
+  {
+    "name": "Dr. Stéphane Launay",
+    "specialty": "pédiatre",
+    "location": "Nice",
+    "languages": "fr,en",
+    "payment": "carte,vital"
+  },
+  {
+    "name": "Dr. Georges Fournier",
+    "specialty": "dentiste",
+    "location": "Nice",
+    "languages": "fr,en,de",
+    "payment": "carte,espèces"
+  },
+  {
+    "name": "Dr. Christine Masse de la Besnard",
+    "specialty": "psychiatre",
+    "location": "Strasbourg",
+    "languages": "fr,ar",
+    "payment": "carte,vital"
+  },
+  {
+    "name": "Dr. Sébastien Martel",
+    "specialty": "ophtalmologue",
+    "location": "Marseille",
+    "languages": "fr,en",
+    "payment": "carte,espèces,vital"
+  },
+  {
+    "name": "Dr. Bernadette-Catherine Barbe",
+    "specialty": "gynécologue",
+    "location": "Lyon",
+    "languages": "fr,ar",
+    "payment": "carte,espèces,vital"
+  },
+  {
+    "name": "Dr. Frédérique de la Joseph",
+    "specialty": "pédiatre",
+    "location": "Paris",
+    "languages": "fr,en",
+    "payment": "carte,vital"
+  },
+  {
+    "name": "Dr. Philippe Gilbert",
+    "specialty": "cardiologue",
+    "location": "Le Havre",
+    "languages": "fr,en,de",
+    "payment": "carte,vital"
+  },
+  {
+    "name": "Dr. Alain Lamy du Maury",
+    "specialty": "neurologue",
+    "location": "Bordeaux",
+    "languages": "fr,ar",
+    "payment": "carte,vital"
+  },
+  {
+    "name": "Dr. Dominique Gimenez",
+    "specialty": "ophtalmologue",
+    "location": "Le Havre",
+    "languages": "fr,ar",
+    "payment": "carte,vital"
+  },
+  {
+    "name": "Dr. Arthur Navarro",
+    "specialty": "pédiatre",
+    "location": "Le Havre",
+    "languages": "fr,en",
+    "payment": "carte,espèces,vital,mutuelle"
+  },
+  {
+    "name": "Dr. Christophe Ollivier de la Lopes",
+    "specialty": "généraliste",
+    "location": "Toulouse",
+    "languages": "fr,en",
+    "payment": "carte,espèces"
+  },
+  {
+    "name": "Dr. Andrée Le Martins",
+    "specialty": "généraliste",
+    "location": "Montpellier",
+    "languages": "fr,ar",
+    "payment": "carte,espèces"
+  },
+  {
+    "name": "Dr. Tristan Joubert",
+    "specialty": "pédiatre",
+    "location": "Nice",
+    "languages": "fr,en",
+    "payment": "carte,espèces,vital"
+  },
+  {
+    "name": "Dr. Isaac Camus",
+    "specialty": "généraliste",
+    "location": "Rennes",
+    "languages": "fr,en,de",
+    "payment": "carte,vital"
+  },
+  {
+    "name": "Dr. Emmanuelle-Hortense Regnier",
+    "specialty": "dentiste",
+    "location": "Reims",
+    "languages": "fr,en,de",
+    "payment": "carte,espèces,vital"
+  },
+  {
+    "name": "Dr. Émile du Chauveau",
+    "specialty": "psychiatre",
+    "location": "Reims",
+    "languages": "fr,en,de",
+    "payment": "carte,espèces,vital"
+  },
+  {
+    "name": "Dr. Virginie de la Barthelemy",
+    "specialty": "psychiatre",
+    "location": "Lille",
+    "languages": "fr",
+    "payment": "carte,vital"
+  },
+  {
+    "name": "Dr. Hugues Bousquet",
+    "specialty": "dentiste",
+    "location": "Nantes",
+    "languages": "fr,en",
+    "payment": "carte,espèces"
+  },
+  {
+    "name": "Dr. Jeanne Coste-Maurice",
+    "specialty": "gynécologue",
+    "location": "Rennes",
+    "languages": "fr,en,de",
+    "payment": "carte,espèces,vital,mutuelle"
+  },
+  {
+    "name": "Dr. Henriette Maury",
+    "specialty": "psychiatre",
+    "location": "Reims",
+    "languages": "fr,en",
+    "payment": "carte,espèces"
+  },
+  {
+    "name": "Dr. Alexandre Schneider",
+    "specialty": "dermatologue",
+    "location": "Montpellier",
+    "languages": "fr",
+    "payment": "carte,vital"
+  },
+  {
+    "name": "Dr. Zoé-Capucine Mercier",
+    "specialty": "généraliste",
+    "location": "Rennes",
+    "languages": "fr,en,de",
+    "payment": "carte,vital"
+  },
+  {
+    "name": "Dr. Pierre Legros",
+    "specialty": "dentiste",
+    "location": "Montpellier",
+    "languages": "fr,en",
+    "payment": "carte,espèces,vital,mutuelle"
+  },
+  {
+    "name": "Dr. Victor Gomez",
+    "specialty": "neurologue",
+    "location": "Lyon",
+    "languages": "fr",
+    "payment": "carte,espèces,vital"
+  },
+  {
+    "name": "Dr. Margot de Fouquet",
+    "specialty": "ophtalmologue",
+    "location": "Rennes",
+    "languages": "fr",
+    "payment": "carte,vital"
+  },
+  {
+    "name": "Dr. Thibaut Guichard-Valentin",
+    "specialty": "gynécologue",
+    "location": "Marseille",
+    "languages": "fr,ar",
+    "payment": "carte,espèces,vital,mutuelle"
+  },
+  {
+    "name": "Dr. Georges Hoareau",
+    "specialty": "généraliste",
+    "location": "Rennes",
+    "languages": "fr",
+    "payment": "carte,espèces,vital,mutuelle"
+  },
+  {
+    "name": "Dr. Rémy-Benjamin Dupuy",
+    "specialty": "psychiatre",
+    "location": "Nantes",
+    "languages": "fr",
+    "payment": "carte,espèces"
+  },
+  {
+    "name": "Dr. Clémence Lemonnier",
+    "specialty": "neurologue",
+    "location": "Le Havre",
+    "languages": "fr",
+    "payment": "carte,espèces,vital,mutuelle"
+  },
+  {
+    "name": "Dr. Aurélie Léger",
+    "specialty": "neurologue",
+    "location": "Le Havre",
+    "languages": "fr,en,de",
+    "payment": "carte,espèces,vital,mutuelle"
+  },
+  {
+    "name": "Dr. Henri Picard-Dupont",
+    "specialty": "radiologue",
+    "location": "Nantes",
+    "languages": "fr,en,de",
+    "payment": "carte,espèces,vital,mutuelle"
+  },
+  {
+    "name": "Dr. Thomas Roux",
+    "specialty": "psychiatre",
+    "location": "Toulouse",
+    "languages": "fr,ar",
+    "payment": "carte,vital"
+  },
+  {
+    "name": "Dr. Mathilde Vallet",
+    "specialty": "neurologue",
+    "location": "Strasbourg",
+    "languages": "fr,en",
+    "payment": "carte,vital"
+  },
+  {
+    "name": "Dr. Alfred Lopez du Gérard",
+    "specialty": "psychiatre",
+    "location": "Toulouse",
+    "languages": "fr",
+    "payment": "carte,espèces,vital,mutuelle"
+  },
+  {
+    "name": "Dr. Bertrand Blin de la Collet",
+    "specialty": "gynécologue",
+    "location": "Strasbourg",
+    "languages": "fr,en,de",
+    "payment": "carte,vital"
+  },
+  {
+    "name": "Dr. Roger-Jules Schmitt",
+    "specialty": "gynécologue",
+    "location": "Toulouse",
+    "languages": "fr,ar",
+    "payment": "carte,espèces"
+  },
+  {
+    "name": "Dr. Élise Neveu",
+    "specialty": "généraliste",
+    "location": "Nice",
+    "languages": "fr",
+    "payment": "carte,vital"
+  },
+  {
+    "name": "Dr. René Giraud",
+    "specialty": "dermatologue",
+    "location": "Lille",
+    "languages": "fr,ar",
+    "payment": "carte,espèces,vital,mutuelle"
+  },
+  {
+    "name": "Dr. Guillaume Hubert",
+    "specialty": "généraliste",
+    "location": "Nantes",
+    "languages": "fr,ar",
+    "payment": "carte,vital"
+  },
+  {
+    "name": "Dr. Corinne de Hamel",
+    "specialty": "pédiatre",
+    "location": "Reims",
+    "languages": "fr",
+    "payment": "carte,vital"
+  },
+  {
+    "name": "Dr. Suzanne Le Navarro",
+    "specialty": "dermatologue",
+    "location": "Toulouse",
+    "languages": "fr,ar",
+    "payment": "carte,espèces,vital,mutuelle"
+  },
+  {
+    "name": "Dr. Gilles Bernier",
+    "specialty": "pédiatre",
+    "location": "Paris",
+    "languages": "fr,en,de",
+    "payment": "carte,vital"
+  },
+  {
+    "name": "Dr. Tristan Klein",
+    "specialty": "gynécologue",
+    "location": "Marseille",
+    "languages": "fr,en",
+    "payment": "carte,vital"
+  },
+  {
+    "name": "Dr. Théodore-Emmanuel Garcia",
+    "specialty": "neurologue",
+    "location": "Bordeaux",
+    "languages": "fr",
+    "payment": "carte,espèces"
+  },
+  {
+    "name": "Dr. Alix Guibert",
+    "specialty": "neurologue",
+    "location": "Lille",
+    "languages": "fr,en",
+    "payment": "carte,espèces,vital"
+  },
+  {
+    "name": "Dr. Thomas Nguyen",
+    "specialty": "psychiatre",
+    "location": "Marseille",
+    "languages": "fr,en,de",
+    "payment": "carte,espèces,vital"
+  },
+  {
+    "name": "Dr. Yves Berthelot Le Maillot",
+    "specialty": "cardiologue",
+    "location": "Strasbourg",
+    "languages": "fr,en,de",
+    "payment": "carte,espèces,vital"
+  },
+  {
+    "name": "Dr. David de Thomas",
+    "specialty": "neurologue",
+    "location": "Paris",
+    "languages": "fr",
+    "payment": "carte,espèces"
+  },
+  {
+    "name": "Dr. Nicolas Diallo de Gomez",
+    "specialty": "ophtalmologue",
+    "location": "Lyon",
+    "languages": "fr,en",
+    "payment": "carte,espèces"
+  },
+  {
+    "name": "Dr. Nicolas Le Martins",
+    "specialty": "radiologue",
+    "location": "Nice",
+    "languages": "fr",
+    "payment": "carte,espèces"
+  },
+  {
+    "name": "Dr. Olivier Traore de la Valette",
+    "specialty": "cardiologue",
+    "location": "Nantes",
+    "languages": "fr",
+    "payment": "carte,espèces,vital,mutuelle"
+  },
+  {
+    "name": "Dr. Honoré Gimenez de la Bruneau",
+    "specialty": "psychiatre",
+    "location": "Lyon",
+    "languages": "fr,ar",
+    "payment": "carte,espèces,vital,mutuelle"
+  },
+  {
+    "name": "Dr. Élise Guilbert",
+    "specialty": "dermatologue",
+    "location": "Reims",
+    "languages": "fr",
+    "payment": "carte,espèces"
+  },
+  {
+    "name": "Dr. Auguste du Aubry",
+    "specialty": "cardiologue",
+    "location": "Reims",
+    "languages": "fr,en,de",
+    "payment": "carte,vital"
+  },
+  {
+    "name": "Dr. Lucy Berger Le Gillet",
+    "specialty": "dentiste",
+    "location": "Reims",
+    "languages": "fr,ar",
+    "payment": "carte,vital"
+  },
+  {
+    "name": "Dr. Brigitte Lemonnier",
+    "specialty": "cardiologue",
+    "location": "Paris",
+    "languages": "fr",
+    "payment": "carte,vital"
+  },
+  {
+    "name": "Dr. Honoré Ribeiro",
+    "specialty": "dermatologue",
+    "location": "Nantes",
+    "languages": "fr",
+    "payment": "carte,vital"
+  },
+  {
+    "name": "Dr. Georges Mahe",
+    "specialty": "ophtalmologue",
+    "location": "Le Havre",
+    "languages": "fr",
+    "payment": "carte,espèces,vital,mutuelle"
+  },
+  {
+    "name": "Dr. Adrienne Legendre",
+    "specialty": "dermatologue",
+    "location": "Montpellier",
+    "languages": "fr,ar",
+    "payment": "carte,espèces,vital,mutuelle"
+  },
+  {
+    "name": "Dr. Thibaut Couturier",
+    "specialty": "gynécologue",
+    "location": "Strasbourg",
+    "languages": "fr,en",
+    "payment": "carte,espèces,vital"
+  },
+  {
+    "name": "Dr. Agathe Teixeira",
+    "specialty": "généraliste",
+    "location": "Le Havre",
+    "languages": "fr",
+    "payment": "carte,espèces"
+  },
+  {
+    "name": "Dr. Alexandre Dupuy",
+    "specialty": "généraliste",
+    "location": "Toulouse",
+    "languages": "fr,en,de",
+    "payment": "carte,espèces,vital,mutuelle"
+  },
+  {
+    "name": "Dr. Marcelle Moreno",
+    "specialty": "cardiologue",
+    "location": "Reims",
+    "languages": "fr,en",
+    "payment": "carte,vital"
+  },
+  {
+    "name": "Dr. Marie Raynaud",
+    "specialty": "gynécologue",
+    "location": "Paris",
+    "languages": "fr",
+    "payment": "carte,vital"
+  },
+  {
+    "name": "Dr. Roland Le Clerc",
+    "specialty": "dentiste",
+    "location": "Montpellier",
+    "languages": "fr",
+    "payment": "carte,espèces,vital,mutuelle"
+  },
+  {
+    "name": "Dr. Émile Masse de Michaud",
+    "specialty": "généraliste",
+    "location": "Lyon",
+    "languages": "fr,en",
+    "payment": "carte,espèces,vital"
+  },
+  {
+    "name": "Dr. Jacqueline Tanguy",
+    "specialty": "ophtalmologue",
+    "location": "Toulouse",
+    "languages": "fr,en",
+    "payment": "carte,espèces,vital,mutuelle"
+  },
+  {
+    "name": "Dr. Julien Lebreton",
+    "specialty": "ophtalmologue",
+    "location": "Bordeaux",
+    "languages": "fr,en,de",
+    "payment": "carte,vital"
+  },
+  {
+    "name": "Dr. Luce Lebon-Clément",
+    "specialty": "neurologue",
+    "location": "Marseille",
+    "languages": "fr",
+    "payment": "carte,espèces"
+  },
+  {
+    "name": "Dr. Laetitia Hernandez",
+    "specialty": "psychiatre",
+    "location": "Nice",
+    "languages": "fr,en",
+    "payment": "carte,espèces"
+  },
+  {
+    "name": "Dr. Frédéric Gomez",
+    "specialty": "psychiatre",
+    "location": "Lyon",
+    "languages": "fr,ar",
+    "payment": "carte,espèces"
+  },
+  {
+    "name": "Dr. Anastasie Rolland",
+    "specialty": "dentiste",
+    "location": "Reims",
+    "languages": "fr,ar",
+    "payment": "carte,espèces,vital"
+  },
+  {
+    "name": "Dr. Frédéric Marin de la Richard",
+    "specialty": "pédiatre",
+    "location": "Nice",
+    "languages": "fr",
+    "payment": "carte,espèces,vital,mutuelle"
+  },
+  {
+    "name": "Dr. Lucie François-Monnier",
+    "specialty": "cardiologue",
+    "location": "Toulouse",
+    "languages": "fr,ar",
+    "payment": "carte,espèces,vital"
+  },
+  {
+    "name": "Dr. Denis Blondel de la Marion",
+    "specialty": "radiologue",
+    "location": "Bordeaux",
+    "languages": "fr,en,de",
+    "payment": "carte,espèces"
+  },
+  {
+    "name": "Dr. Hugues Gauthier",
+    "specialty": "psychiatre",
+    "location": "Reims",
+    "languages": "fr,en,de",
+    "payment": "carte,espèces"
+  },
+  {
+    "name": "Dr. Valérie Lejeune",
+    "specialty": "neurologue",
+    "location": "Marseille",
+    "languages": "fr,en",
+    "payment": "carte,espèces,vital"
+  },
+  {
+    "name": "Dr. Margot Lagarde",
+    "specialty": "ophtalmologue",
+    "location": "Strasbourg",
+    "languages": "fr,en,de",
+    "payment": "carte,vital"
+  },
+  {
+    "name": "Dr. Eugène Chrétien-Barbe",
+    "specialty": "dentiste",
+    "location": "Nantes",
+    "languages": "fr,en,de",
+    "payment": "carte,espèces,vital,mutuelle"
+  },
+  {
+    "name": "Dr. Thérèse Weiss",
+    "specialty": "généraliste",
+    "location": "Montpellier",
+    "languages": "fr,en,de",
+    "payment": "carte,vital"
+  },
+  {
+    "name": "Dr. Marc Potier-Leblanc",
+    "specialty": "neurologue",
+    "location": "Lille",
+    "languages": "fr,en",
+    "payment": "carte,espèces,vital"
+  },
+  {
+    "name": "Dr. Michelle Gomez",
+    "specialty": "radiologue",
+    "location": "Le Havre",
+    "languages": "fr,en",
+    "payment": "carte,espèces"
+  },
+  {
+    "name": "Dr. Adrienne Grégoire",
+    "specialty": "pédiatre",
+    "location": "Marseille",
+    "languages": "fr",
+    "payment": "carte,espèces"
+  },
+  {
+    "name": "Dr. Louis Dos Santos",
+    "specialty": "gynécologue",
+    "location": "Rennes",
+    "languages": "fr,en,de",
+    "payment": "carte,espèces"
+  },
+  {
+    "name": "Dr. Noël du Chauvin",
+    "specialty": "gynécologue",
+    "location": "Bordeaux",
+    "languages": "fr,en,de",
+    "payment": "carte,espèces,vital"
+  },
+  {
+    "name": "Dr. Yves Martin",
+    "specialty": "neurologue",
+    "location": "Nice",
+    "languages": "fr,ar",
+    "payment": "carte,espèces,vital,mutuelle"
+  },
+  {
+    "name": "Dr. Agnès-Christine Techer",
+    "specialty": "dentiste",
+    "location": "Le Havre",
+    "languages": "fr,ar",
+    "payment": "carte,vital"
+  },
+  {
+    "name": "Dr. Victor Hernandez",
+    "specialty": "pédiatre",
+    "location": "Toulouse",
+    "languages": "fr,ar",
+    "payment": "carte,espèces"
+  },
+  {
+    "name": "Dr. Colette Simon",
+    "specialty": "psychiatre",
+    "location": "Montpellier",
+    "languages": "fr",
+    "payment": "carte,vital"
+  },
+  {
+    "name": "Dr. Martin Léger-Pasquier",
+    "specialty": "cardiologue",
+    "location": "Montpellier",
+    "languages": "fr",
+    "payment": "carte,vital"
+  },
+  {
+    "name": "Dr. Marguerite de la Becker",
+    "specialty": "radiologue",
+    "location": "Lille",
+    "languages": "fr",
+    "payment": "carte,espèces"
+  },
+  {
+    "name": "Dr. Stéphanie Jourdan-Diallo",
+    "specialty": "généraliste",
+    "location": "Reims",
+    "languages": "fr,ar",
+    "payment": "carte,espèces,vital"
+  },
+  {
+    "name": "Dr. Philippe-Marcel Daniel",
+    "specialty": "cardiologue",
+    "location": "Nantes",
+    "languages": "fr",
+    "payment": "carte,espèces,vital"
+  },
+  {
+    "name": "Dr. Marcelle Gauthier",
+    "specialty": "neurologue",
+    "location": "Paris",
+    "languages": "fr,ar",
+    "payment": "carte,espèces"
+  },
+  {
+    "name": "Dr. Margaud Bouvet",
+    "specialty": "dermatologue",
+    "location": "Rennes",
+    "languages": "fr,en",
+    "payment": "carte,espèces"
+  },
+  {
+    "name": "Dr. Maurice Grégoire",
+    "specialty": "neurologue",
+    "location": "Rennes",
+    "languages": "fr",
+    "payment": "carte,vital"
+  },
+  {
+    "name": "Dr. Diane Dijoux de la Dos Santos",
+    "specialty": "cardiologue",
+    "location": "Nice",
+    "languages": "fr,en,de",
+    "payment": "carte,espèces,vital"
+  },
+  {
+    "name": "Dr. Théodore Menard",
+    "specialty": "cardiologue",
+    "location": "Bordeaux",
+    "languages": "fr,ar",
+    "payment": "carte,espèces,vital"
+  },
+  {
+    "name": "Dr. Jean de Louis",
+    "specialty": "dermatologue",
+    "location": "Bordeaux",
+    "languages": "fr",
+    "payment": "carte,espèces"
+  },
+  {
+    "name": "Dr. Michèle Mace",
+    "specialty": "généraliste",
+    "location": "Lyon",
+    "languages": "fr,ar",
+    "payment": "carte,espèces,vital"
+  },
+  {
+    "name": "Dr. Audrey Lecomte",
+    "specialty": "pédiatre",
+    "location": "Lyon",
+    "languages": "fr,en",
+    "payment": "carte,espèces,vital"
+  },
+  {
+    "name": "Dr. Gérard Fleury",
+    "specialty": "cardiologue",
+    "location": "Lyon",
+    "languages": "fr,ar",
+    "payment": "carte,espèces,vital"
+  },
+  {
+    "name": "Dr. Victor du Leduc",
+    "specialty": "généraliste",
+    "location": "Bordeaux",
+    "languages": "fr,en,de",
+    "payment": "carte,espèces,vital"
+  },
+  {
+    "name": "Dr. Yves Marques",
+    "specialty": "cardiologue",
+    "location": "Reims",
+    "languages": "fr,en",
+    "payment": "carte,espèces,vital"
+  },
+  {
+    "name": "Dr. Manon Rémy",
+    "specialty": "psychiatre",
+    "location": "Nantes",
+    "languages": "fr,ar",
+    "payment": "carte,vital"
+  },
+  {
+    "name": "Dr. Océane Blanchard",
+    "specialty": "dentiste",
+    "location": "Nantes",
+    "languages": "fr,en,de",
+    "payment": "carte,espèces,vital,mutuelle"
+  },
+  {
+    "name": "Dr. Bertrand Rousset",
+    "specialty": "gynécologue",
+    "location": "Reims",
+    "languages": "fr",
+    "payment": "carte,espèces"
+  },
+  {
+    "name": "Dr. Véronique Coste",
+    "specialty": "psychiatre",
+    "location": "Reims",
+    "languages": "fr,en,de",
+    "payment": "carte,espèces,vital,mutuelle"
+  },
+  {
+    "name": "Dr. Anne Lefèvre",
+    "specialty": "radiologue",
+    "location": "Nice",
+    "languages": "fr",
+    "payment": "carte,espèces,vital"
+  },
+  {
+    "name": "Dr. Thibault Bernard",
+    "specialty": "ophtalmologue",
+    "location": "Nice",
+    "languages": "fr",
+    "payment": "carte,espèces,vital"
+  },
+  {
+    "name": "Dr. Émilie Pichon",
+    "specialty": "neurologue",
+    "location": "Nantes",
+    "languages": "fr,ar",
+    "payment": "carte,espèces,vital,mutuelle"
+  },
+  {
+    "name": "Dr. Sébastien Lejeune",
+    "specialty": "neurologue",
+    "location": "Le Havre",
+    "languages": "fr",
+    "payment": "carte,vital"
+  },
+  {
+    "name": "Dr. André-Alfred Allain",
+    "specialty": "dermatologue",
+    "location": "Bordeaux",
+    "languages": "fr,en",
+    "payment": "carte,espèces"
+  },
+  {
+    "name": "Dr. Corinne-Valentine Bertin",
+    "specialty": "pédiatre",
+    "location": "Nantes",
+    "languages": "fr,en",
+    "payment": "carte,vital"
+  },
+  {
+    "name": "Dr. Jacqueline Georges-Traore",
+    "specialty": "généraliste",
+    "location": "Le Havre",
+    "languages": "fr,en",
+    "payment": "carte,vital"
+  },
+  {
+    "name": "Dr. Manon Menard",
+    "specialty": "généraliste",
+    "location": "Paris",
+    "languages": "fr,en,de",
+    "payment": "carte,espèces"
+  },
+  {
+    "name": "Dr. Audrey Guillou de la Gauthier",
+    "specialty": "dermatologue",
+    "location": "Lyon",
+    "languages": "fr,en",
+    "payment": "carte,espèces"
+  },
+  {
+    "name": "Dr. David-Jérôme Imbert",
+    "specialty": "radiologue",
+    "location": "Bordeaux",
+    "languages": "fr",
+    "payment": "carte,espèces"
+  },
+  {
+    "name": "Dr. Gilles Legros du Brun",
+    "specialty": "neurologue",
+    "location": "Reims",
+    "languages": "fr,en,de",
+    "payment": "carte,espèces,vital,mutuelle"
+  },
+  {
+    "name": "Dr. Zacharie-Roland Lagarde",
+    "specialty": "dentiste",
+    "location": "Rennes",
+    "languages": "fr",
+    "payment": "carte,espèces"
+  },
+  {
+    "name": "Dr. Zacharie Bonnet",
+    "specialty": "neurologue",
+    "location": "Le Havre",
+    "languages": "fr,en",
+    "payment": "carte,vital"
+  },
+  {
+    "name": "Dr. Marc Breton",
+    "specialty": "dentiste",
+    "location": "Bordeaux",
+    "languages": "fr",
+    "payment": "carte,espèces,vital,mutuelle"
+  },
+  {
+    "name": "Dr. Augustin Jacob",
+    "specialty": "radiologue",
+    "location": "Toulouse",
+    "languages": "fr,en,de",
+    "payment": "carte,espèces,vital"
+  },
+  {
+    "name": "Dr. Henri Grenier-Descamps",
+    "specialty": "généraliste",
+    "location": "Nantes",
+    "languages": "fr,ar",
+    "payment": "carte,vital"
+  },
+  {
+    "name": "Dr. Zacharie de Menard",
+    "specialty": "radiologue",
+    "location": "Le Havre",
+    "languages": "fr",
+    "payment": "carte,espèces,vital"
+  },
+  {
+    "name": "Dr. Jérôme Colin",
+    "specialty": "dentiste",
+    "location": "Montpellier",
+    "languages": "fr,ar",
+    "payment": "carte,espèces,vital,mutuelle"
+  },
+  {
+    "name": "Dr. Aimé de la Philippe",
+    "specialty": "ophtalmologue",
+    "location": "Bordeaux",
+    "languages": "fr,ar",
+    "payment": "carte,espèces,vital"
+  },
+  {
+    "name": "Dr. Emmanuelle Lamy",
+    "specialty": "généraliste",
+    "location": "Nice",
+    "languages": "fr,ar",
+    "payment": "carte,espèces,vital"
+  },
+  {
+    "name": "Dr. Thibault Jacquet",
+    "specialty": "cardiologue",
+    "location": "Lyon",
+    "languages": "fr",
+    "payment": "carte,espèces"
+  },
+  {
+    "name": "Dr. Anaïs-Luce Texier",
+    "specialty": "psychiatre",
+    "location": "Montpellier",
+    "languages": "fr,ar",
+    "payment": "carte,vital"
+  },
+  {
+    "name": "Dr. Stéphane Tessier",
+    "specialty": "neurologue",
+    "location": "Marseille",
+    "languages": "fr,en",
+    "payment": "carte,espèces"
+  },
+  {
+    "name": "Dr. Léon Robin",
+    "specialty": "généraliste",
+    "location": "Lyon",
+    "languages": "fr",
+    "payment": "carte,espèces"
+  },
+  {
+    "name": "Dr. Martin Da Silva",
+    "specialty": "ophtalmologue",
+    "location": "Montpellier",
+    "languages": "fr,en",
+    "payment": "carte,vital"
+  },
+  {
+    "name": "Dr. Pierre Olivier",
+    "specialty": "gynécologue",
+    "location": "Lille",
+    "languages": "fr,ar",
+    "payment": "carte,espèces"
+  },
+  {
+    "name": "Dr. Christophe Pascal",
+    "specialty": "radiologue",
+    "location": "Montpellier",
+    "languages": "fr",
+    "payment": "carte,espèces,vital"
+  },
+  {
+    "name": "Dr. Alix-Camille Roux",
+    "specialty": "neurologue",
+    "location": "Bordeaux",
+    "languages": "fr,en,de",
+    "payment": "carte,espèces"
+  },
+  {
+    "name": "Dr. Marthe de Verdier",
+    "specialty": "ophtalmologue",
+    "location": "Toulouse",
+    "languages": "fr,ar",
+    "payment": "carte,espèces"
+  },
+  {
+    "name": "Dr. Alexandrie de Barbe",
+    "specialty": "cardiologue",
+    "location": "Nantes",
+    "languages": "fr,en",
+    "payment": "carte,espèces,vital"
+  },
+  {
+    "name": "Dr. Arthur Léger",
+    "specialty": "gynécologue",
+    "location": "Lille",
+    "languages": "fr",
+    "payment": "carte,espèces"
+  },
+  {
+    "name": "Dr. Jérôme Barre",
+    "specialty": "ophtalmologue",
+    "location": "Strasbourg",
+    "languages": "fr,ar",
+    "payment": "carte,vital"
+  },
+  {
+    "name": "Dr. Alexandre Dumas",
+    "specialty": "gynécologue",
+    "location": "Toulouse",
+    "languages": "fr,en",
+    "payment": "carte,espèces"
+  },
+  {
+    "name": "Dr. René Arnaud",
+    "specialty": "pédiatre",
+    "location": "Reims",
+    "languages": "fr,en",
+    "payment": "carte,espèces,vital"
+  },
+  {
+    "name": "Dr. Roland Boyer-Aubert",
+    "specialty": "ophtalmologue",
+    "location": "Nantes",
+    "languages": "fr,ar",
+    "payment": "carte,espèces"
+  },
+  {
+    "name": "Dr. Andrée Ollivier",
+    "specialty": "ophtalmologue",
+    "location": "Reims",
+    "languages": "fr,en,de",
+    "payment": "carte,espèces,vital,mutuelle"
+  },
+  {
+    "name": "Dr. Christelle Gallet",
+    "specialty": "ophtalmologue",
+    "location": "Montpellier",
+    "languages": "fr",
+    "payment": "carte,vital"
+  },
+  {
+    "name": "Dr. Agnès Renault-Weiss",
+    "specialty": "pédiatre",
+    "location": "Lille",
+    "languages": "fr,ar",
+    "payment": "carte,espèces,vital,mutuelle"
+  },
+  {
+    "name": "Dr. Marguerite-Jeanne Navarro",
+    "specialty": "dentiste",
+    "location": "Le Havre",
+    "languages": "fr",
+    "payment": "carte,espèces,vital,mutuelle"
+  },
+  {
+    "name": "Dr. Gilles Dias",
+    "specialty": "dermatologue",
+    "location": "Toulouse",
+    "languages": "fr,ar",
+    "payment": "carte,espèces,vital"
+  },
+  {
+    "name": "Dr. Célina-Michelle Menard",
+    "specialty": "gynécologue",
+    "location": "Reims",
+    "languages": "fr,en",
+    "payment": "carte,espèces,vital"
+  },
+  {
+    "name": "Dr. Anaïs Fischer",
+    "specialty": "psychiatre",
+    "location": "Marseille",
+    "languages": "fr,en,de",
+    "payment": "carte,espèces,vital,mutuelle"
+  },
+  {
+    "name": "Dr. Christiane Guérin",
+    "specialty": "radiologue",
+    "location": "Lille",
+    "languages": "fr,en,de",
+    "payment": "carte,espèces,vital"
+  },
+  {
+    "name": "Dr. Rémy-René Leclercq",
+    "specialty": "dentiste",
+    "location": "Le Havre",
+    "languages": "fr,en,de",
+    "payment": "carte,espèces"
+  },
+  {
+    "name": "Dr. Antoinette Guyot-Buisson",
+    "specialty": "ophtalmologue",
+    "location": "Nantes",
+    "languages": "fr",
+    "payment": "carte,espèces"
+  },
+  {
+    "name": "Dr. Joséphine Colas",
+    "specialty": "dermatologue",
+    "location": "Le Havre",
+    "languages": "fr,en",
+    "payment": "carte,espèces,vital,mutuelle"
+  },
+  {
+    "name": "Dr. Stéphane-Antoine Rousset",
+    "specialty": "pédiatre",
+    "location": "Nantes",
+    "languages": "fr,ar",
+    "payment": "carte,espèces,vital"
+  },
+  {
+    "name": "Dr. Rémy du Dupont",
+    "specialty": "radiologue",
+    "location": "Le Havre",
+    "languages": "fr,en,de",
+    "payment": "carte,espèces,vital,mutuelle"
+  },
+  {
+    "name": "Dr. Isabelle du Mahe",
+    "specialty": "gynécologue",
+    "location": "Le Havre",
+    "languages": "fr,en",
+    "payment": "carte,espèces,vital,mutuelle"
+  },
+  {
+    "name": "Dr. Jeannine de Lopes",
+    "specialty": "dentiste",
+    "location": "Marseille",
+    "languages": "fr,en,de",
+    "payment": "carte,vital"
+  },
+  {
+    "name": "Dr. Benjamin Lefort",
+    "specialty": "généraliste",
+    "location": "Strasbourg",
+    "languages": "fr,ar",
+    "payment": "carte,espèces"
+  },
+  {
+    "name": "Dr. Brigitte Samson",
+    "specialty": "gynécologue",
+    "location": "Marseille",
+    "languages": "fr,en",
+    "payment": "carte,espèces,vital"
+  },
+  {
+    "name": "Dr. Jules Munoz",
+    "specialty": "cardiologue",
+    "location": "Reims",
+    "languages": "fr",
+    "payment": "carte,espèces,vital,mutuelle"
+  },
+  {
+    "name": "Dr. Colette Huet",
+    "specialty": "neurologue",
+    "location": "Rennes",
+    "languages": "fr,en",
+    "payment": "carte,vital"
+  },
+  {
+    "name": "Dr. Sébastien Bigot Le Guillou",
+    "specialty": "psychiatre",
+    "location": "Nice",
+    "languages": "fr",
+    "payment": "carte,espèces,vital"
+  },
+  {
+    "name": "Dr. Brigitte Olivier",
+    "specialty": "cardiologue",
+    "location": "Nice",
+    "languages": "fr,en",
+    "payment": "carte,vital"
+  },
+  {
+    "name": "Dr. Roger-Denis Lecoq",
+    "specialty": "dentiste",
+    "location": "Nice",
+    "languages": "fr,en,de",
+    "payment": "carte,espèces,vital"
+  },
+  {
+    "name": "Dr. Auguste Charpentier",
+    "specialty": "radiologue",
+    "location": "Rennes",
+    "languages": "fr",
+    "payment": "carte,espèces,vital,mutuelle"
+  },
+  {
+    "name": "Dr. Théophile Grondin",
+    "specialty": "dermatologue",
+    "location": "Lille",
+    "languages": "fr",
+    "payment": "carte,vital"
+  },
+  {
+    "name": "Dr. Timothée Mercier",
+    "specialty": "radiologue",
+    "location": "Rennes",
+    "languages": "fr,en,de",
+    "payment": "carte,espèces,vital"
+  },
+  {
+    "name": "Dr. Hortense-Bernadette Brunet",
+    "specialty": "dentiste",
+    "location": "Nice",
+    "languages": "fr,ar",
+    "payment": "carte,espèces,vital,mutuelle"
+  },
+  {
+    "name": "Dr. Édouard de la Jacob",
+    "specialty": "généraliste",
+    "location": "Toulouse",
+    "languages": "fr,ar",
+    "payment": "carte,espèces"
+  },
+  {
+    "name": "Dr. Michelle Royer",
+    "specialty": "psychiatre",
+    "location": "Bordeaux",
+    "languages": "fr",
+    "payment": "carte,vital"
+  },
+  {
+    "name": "Dr. Adrienne Hubert-Jacques",
+    "specialty": "radiologue",
+    "location": "Marseille",
+    "languages": "fr,en,de",
+    "payment": "carte,espèces"
+  },
+  {
+    "name": "Dr. Philippe Colin",
+    "specialty": "pédiatre",
+    "location": "Nantes",
+    "languages": "fr,en,de",
+    "payment": "carte,espèces,vital"
+  },
+  {
+    "name": "Dr. Étienne Peron",
+    "specialty": "pédiatre",
+    "location": "Montpellier",
+    "languages": "fr,en,de",
+    "payment": "carte,vital"
+  },
+  {
+    "name": "Dr. Raymond Coulon",
+    "specialty": "généraliste",
+    "location": "Paris",
+    "languages": "fr,ar",
+    "payment": "carte,espèces,vital"
+  },
+  {
+    "name": "Dr. Maggie Lecomte",
+    "specialty": "ophtalmologue",
+    "location": "Bordeaux",
+    "languages": "fr",
+    "payment": "carte,espèces,vital,mutuelle"
+  },
+  {
+    "name": "Dr. Honoré Peltier",
+    "specialty": "neurologue",
+    "location": "Rennes",
+    "languages": "fr",
+    "payment": "carte,espèces,vital,mutuelle"
+  },
+  {
+    "name": "Dr. André Baudry",
+    "specialty": "gynécologue",
+    "location": "Paris",
+    "languages": "fr,ar",
+    "payment": "carte,vital"
+  },
+  {
+    "name": "Dr. Frédérique Barbe",
+    "specialty": "dentiste",
+    "location": "Lille",
+    "languages": "fr,en",
+    "payment": "carte,espèces,vital,mutuelle"
+  },
+  {
+    "name": "Dr. Zacharie Leclercq",
+    "specialty": "généraliste",
+    "location": "Le Havre",
+    "languages": "fr,en",
+    "payment": "carte,espèces,vital,mutuelle"
+  },
+  {
+    "name": "Dr. Maryse Imbert",
+    "specialty": "ophtalmologue",
+    "location": "Marseille",
+    "languages": "fr,en",
+    "payment": "carte,espèces"
+  },
+  {
+    "name": "Dr. Théodore Payet",
+    "specialty": "dentiste",
+    "location": "Bordeaux",
+    "languages": "fr,ar",
+    "payment": "carte,espèces"
+  },
+  {
+    "name": "Dr. Brigitte Le Collet",
+    "specialty": "pédiatre",
+    "location": "Lille",
+    "languages": "fr,ar",
+    "payment": "carte,espèces"
+  },
+  {
+    "name": "Dr. Nathalie du Ferrand",
+    "specialty": "psychiatre",
+    "location": "Nantes",
+    "languages": "fr",
+    "payment": "carte,espèces,vital,mutuelle"
+  },
+  {
+    "name": "Dr. Olivier-Zacharie Blin",
+    "specialty": "pédiatre",
+    "location": "Le Havre",
+    "languages": "fr,ar",
+    "payment": "carte,espèces"
+  },
+  {
+    "name": "Dr. Denis Gillet",
+    "specialty": "dentiste",
+    "location": "Strasbourg",
+    "languages": "fr,ar",
+    "payment": "carte,espèces,vital"
+  },
+  {
+    "name": "Dr. Arthur-Adrien Lacroix",
+    "specialty": "neurologue",
+    "location": "Toulouse",
+    "languages": "fr,ar",
+    "payment": "carte,espèces,vital"
+  },
+  {
+    "name": "Dr. Chantal Moreau",
+    "specialty": "gynécologue",
+    "location": "Montpellier",
+    "languages": "fr,en,de",
+    "payment": "carte,vital"
+  },
+  {
+    "name": "Dr. Philippe-Jules Da Silva",
+    "specialty": "psychiatre",
+    "location": "Marseille",
+    "languages": "fr",
+    "payment": "carte,espèces,vital"
+  },
+  {
+    "name": "Dr. Nathalie Paris",
+    "specialty": "gynécologue",
+    "location": "Toulouse",
+    "languages": "fr,ar",
+    "payment": "carte,espèces,vital,mutuelle"
+  },
+  {
+    "name": "Dr. Michelle Morvan",
+    "specialty": "neurologue",
+    "location": "Reims",
+    "languages": "fr,en,de",
+    "payment": "carte,espèces"
+  },
+  {
+    "name": "Dr. Nathalie Duhamel",
+    "specialty": "psychiatre",
+    "location": "Montpellier",
+    "languages": "fr,en,de",
+    "payment": "carte,espèces,vital,mutuelle"
+  },
+  {
+    "name": "Dr. Margaux Pinto de la Blin",
+    "specialty": "cardiologue",
+    "location": "Bordeaux",
+    "languages": "fr,ar",
+    "payment": "carte,espèces"
+  },
+  {
+    "name": "Dr. Léon Hubert",
+    "specialty": "radiologue",
+    "location": "Rennes",
+    "languages": "fr,en",
+    "payment": "carte,espèces"
+  },
+  {
+    "name": "Dr. Geneviève Moulin de la Chauvet",
+    "specialty": "ophtalmologue",
+    "location": "Bordeaux",
+    "languages": "fr,en",
+    "payment": "carte,espèces,vital"
+  },
+  {
+    "name": "Dr. Roger Masson",
+    "specialty": "ophtalmologue",
+    "location": "Reims",
+    "languages": "fr",
+    "payment": "carte,espèces,vital"
+  },
+  {
+    "name": "Dr. Bernard Laurent",
+    "specialty": "dentiste",
+    "location": "Le Havre",
+    "languages": "fr,ar",
+    "payment": "carte,espèces,vital"
+  },
+  {
+    "name": "Dr. Rémy-Benoît Boulanger",
+    "specialty": "cardiologue",
+    "location": "Rennes",
+    "languages": "fr",
+    "payment": "carte,vital"
+  },
+  {
+    "name": "Dr. Isabelle Marchand",
+    "specialty": "radiologue",
+    "location": "Bordeaux",
+    "languages": "fr,en",
+    "payment": "carte,vital"
+  }
+]
