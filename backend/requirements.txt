@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlmodel
+python-dotenv
+spacy
+fr_core_news_lg
+en_core_web_lg
+dateparser
+rapidfuzz
+langdetect
